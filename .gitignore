@@ -1,6 +1,2 @@
 data/
-
-
-# Added by cargo
-
-/target
+uv.lock
